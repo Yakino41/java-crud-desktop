@@ -1,23 +1,26 @@
-Projeto CRUD Java
-Criador
-Arthur Gabriel Teotonio Stellato
-Seu GitHub
+# Projeto CRUD em Java
 
-📌 Sobre
+## Criador
+**Arthur Gabriel Teotonio Stellato**  
+[GitHub](https://github.com/Yakino41)
 
-Este projeto contém dois repositórios, desenvolvidos em Java com interface gráfica no NetBeans, com o objetivo de praticar e evoluir conceitos de programação e desenvolvimento de sistemas.
+---
 
-Projeto 1 — CRUD Básico
+##  Sobre
+Este projeto contém dois repósitorios desenvolvidos em Java com interface gráfica no NetBeans, com o objetivo de praticar e evoluir conceitos de programação e desenvolvimento de sistemas.
 
+---
+
+##  Projeto 1 — CRUD Básico
 Primeira versão de um sistema CRUD desenvolvido em Java utilizando interface gráfica.
 
-Funcionalidades:
-Cadastro de dados
-Visualização de informações
-Atualização de registros
-Exclusão de dados
+###  Funcionalidades:
+- Cadastro de dados
+- Visualização de informações
+- Atualização de registros
+- Exclusão de dados
 
-Objetivo:
-Aprender lógica de programação
-Introdução à Programação Orientada a Objetos (POO)
-Desenvolvimento de interfaces gráficas no NetBeans
+###  Objetivo:
+- Aprender lógica de programação
+- Introdução à Programação Orientada a Objetos (POO)
+- Desenvolvimento de interfaces gráficas no NetBeans
