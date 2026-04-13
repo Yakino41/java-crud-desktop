@@ -1,26 +1,26 @@
-# Projeto CRUD em Java
+# Java CRUD Project
 
-## Criador
+## Creator
 **Arthur Gabriel Teotonio Stellato**  
 [GitHub](https://github.com/Yakino41)
 
 ---
 
-##  Sobre
-Este projeto contém dois repósitorios desenvolvidos em Java com interface gráfica no NetBeans, com o objetivo de praticar e evoluir conceitos de programação e desenvolvimento de sistemas.
+## 📌 About
+This project contains two repositories developed in Java using a graphical interface in NetBeans, with the purpose of practicing and improving programming and system development concepts.
 
 ---
 
-##  Projeto 1 — CRUD Básico
-Primeira versão de um sistema CRUD desenvolvido em Java utilizando interface gráfica.
+## 💻 Project 1 — Basic CRUD
+First version of a CRUD system developed in Java using a graphical interface.
 
-###  Funcionalidades:
-- Cadastro de dados
-- Visualização de informações
-- Atualização de registros
-- Exclusão de dados
+### ⚙️ Features:
+- Data registration (Create)
+- Information visualization (Read)
+- Record updating (Update)
+- Data deletion (Delete)
 
-###  Objetivo:
-- Aprender lógica de programação
-- Introdução à Programação Orientada a Objetos (POO)
-- Desenvolvimento de interfaces gráficas no NetBeans
+### 🎯 Objective:
+- Learn programming logic  
+- Introduction to Object-Oriented Programming (OOP)  
+- Development of graphical interfaces using NetBeans  
