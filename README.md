@@ -24,3 +24,8 @@ First version of a CRUD system developed in Java using a graphical interface.
 - Learn programming logic  
 - Introduction to Object-Oriented Programming (OOP)  
 - Development of graphical interfaces using NetBeans  
+
+## 🔗 Next Step
+This project evolves into a more advanced version with database integration:
+
+👉 https://github.com/Yakino41/java-crud-mysql
